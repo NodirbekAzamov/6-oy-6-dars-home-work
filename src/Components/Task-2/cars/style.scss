@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    .matiz_box {
+        text-align: center;
+        width: 270px;
+        border: 1px solid;
+        h1 {
+            background: #071c70;
+            color: #fff;
+            font-size: 30px;
+        }
+        .matiz_text {
+            display: flex;
+            justify-content: space-between;            
+        }
+    }
+
+
+    .jiguli {
+        width: 270px;
+        border: 1px solid;
+        img {
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            background: #071c70;
+            font-size: 20px;
+            color: #fff;
+        }
+    }
+
+    .spark {
+        width: 270px;
+        border: 1px solid;
+
+        h5 {
+            background: #071c70;
+            text-align: center;
+            color: #fff;
+            font-size: 30px;
+            font-family: sans-serif;
+        }
+        img {
+            width: 100%;
+        }
+    }
+
+    .box {
+        width: 270px;
+        border: 1px solid;
+
+        h1 {
+            background: #071c70;
+            text-align: center;
+            color: #fff;
+            font-size: 30px;
+            font-family: sans-serif;
+        }
+        img {
+            width: 100%;
+        }
+    }
+
+
+}
